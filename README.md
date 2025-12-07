@@ -1,12 +1,12 @@
 # Halo, Saya FIRDAUSI NUZULA
 
 ## Tentang Saya
-Nama     : Firdausi Nuzula
-Sekolah  : SMKN1 Wonosobo
-Jurusan  : Rekayasa Perangkat Lunak (RPL)
-Magang   : Perpustakaan UNSIQ selama 4 bulan
-Lokasi   : Wonosobo
-hobi     : belajar hal baru, membuat produk digital
+- Nama     : Firdausi Nuzula
+- Sekolah  : SMKN1 Wonosobo
+- Jurusan  : Rekayasa Perangkat Lunak (RPL)
+- Magang   : Perpustakaan UNSIQ selama 4 bulan
+- Lokasi   : Wonosobo
+- hobi     : belajar hal baru, membuat produk digital
 
 *"Saya adalah siswi RPL yang sedang mempersiapkan diri untuk memasuki dunia kerja sebagai Junior Web Developer. Saat ini fokus mengembangkan skill programming dan digital product creation."*
 
